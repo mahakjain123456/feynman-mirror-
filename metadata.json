@@ -1,0 +1,8 @@
+{
+  "name": "Feynman Mirror",
+  "description": "A real-time AI teaching assistant that helps you learn by explaining concepts. It tracks your clarity score and provides audio feedback using the Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
